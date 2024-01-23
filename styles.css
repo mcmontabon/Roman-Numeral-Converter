@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+#number {
+    padding: 5px;
+    font-size: 16px;
+}
+
+#convert-btn {
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#output {
+    margin-top: 10px;
+    font-size: 18px;
+}
